@@ -97,6 +97,12 @@
   height:40vh;
   width: 20vw;
 }
+.fav-genres{
+  padding: 2rem;
+}
+.fav-table{
+  padding: 2rem;
+}
 
 @media screen and (max-width: 500px) {
   .banner-card{
